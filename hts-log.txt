@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Nov 2023 03:20:23 at https://goarrenovations.com/apply-now/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://goarrenovations.com/apply-now/ -O1 "C:\My Web Sites\Goar renov" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:21:20	Error: 	"Not Found" (404) at link https://goarrenovations.com/wp-content/themes/constructo/css/boxed/pattern-10.png (from https://goarrenovations.com/wp-content/themes/constructo/css/core.css?ver=6.4.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 91 links scanned, 89 files written (3054775 bytes overall) [1161370 bytes received at 20374 bytes/sec], 2705512 bytes transferred using HTTP compression in 61 files, ratio 26%, 13.0 requests per connection
+(1 errors, 0 warnings, 0 messages)

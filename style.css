@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#root {
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+}
+.bar-img {
+    width: 50%;
+    height: 50%;
+    padding-top: 30px;
+}
+.Admin-title {
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
